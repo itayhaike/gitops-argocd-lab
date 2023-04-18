@@ -12,4 +12,5 @@ spec:
     repoURL: >-
       https://github.com/itayhaike/gitops-argocd-lab.git
     targetRevision: main
-  syncPolicy: {}
+  syncPolicy:
+    automated:
