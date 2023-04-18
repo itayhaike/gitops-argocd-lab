@@ -10,6 +10,6 @@ spec:
   source:
     path: bootstrap
     repoURL: >-
-      https://github.com/albertogd/gitops-argocd-lab.git
+      https://github.com/itayhaike/gitops-argocd-lab.git
     targetRevision: main
   syncPolicy: {}
